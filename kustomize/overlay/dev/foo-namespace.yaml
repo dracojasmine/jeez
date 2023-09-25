@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: foo
+  labels:
+    environment-id: env_52a7998b-22a1-4b69-82c8-1cf89bd3f2f7
+    project-id: project_121ed2c4-7a92-4bb3-a50e-422ba463e738
+    project-name: jeez
+    environment-name: dev
+    organization-id: org_01b50229-db34-43d4-8f3e-d1aeb683d900

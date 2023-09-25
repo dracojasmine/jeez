@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: bar
+  labels:
+    environment-id: env_983cf3ca-573e-4b72-bd31-79c6ba690b7b
+    project-id: project_121ed2c4-7a92-4bb3-a50e-422ba463e738
+    project-name: jeez
+    environment-name: prod
+    organization-id: org_01b50229-db34-43d4-8f3e-d1aeb683d900
